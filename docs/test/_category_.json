@@ -1,0 +1,7 @@
+{
+  "label": "Test docusaurus",
+  "position": 4,
+  "link": {
+    "type": "generated-index"
+  }
+}
